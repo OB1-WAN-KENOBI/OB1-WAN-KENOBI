@@ -24,5 +24,6 @@ I’m a frontend developer learning HTML and CSS. I'm passionate about building 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
-## ⚡ Fun fact:
-- I love playing strategy games and traveling to see beautiful sunsets!
+## 💫 Obi-Wan Kenobi:
+Here’s a fun animated "Obi-Wan Kenobi" gif:
+![Obi-Wan](https://media.giphy.com/media/2H5CJTZHITXfS/giphy.gif)
