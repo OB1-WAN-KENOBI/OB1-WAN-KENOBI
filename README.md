@@ -26,4 +26,4 @@ I’m a frontend developer learning HTML and CSS. I'm passionate about building 
 
 ## 💫 Obi-Wan Kenobi:
 Here’s a fun animated "Obi-Wan Kenobi" gif:
-![Obi-Wan](https://media.giphy.com/media/2H5CJTZHITXfS/giphy.gif)
+![Obi-Wan]([https://media.giphy.com/media/2H5CJTZHITXfS/giphy.gif](https://giphy.com/gifs/disneyplus-obi-wan-kenobi-BjCWlikTDTN4a8EU0b))
