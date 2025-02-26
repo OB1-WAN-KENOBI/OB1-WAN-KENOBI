@@ -15,7 +15,7 @@ I’m a frontend developer learning HTML and CSS. I'm passionate about building 
 - My journey of learning frontend development.
 
 ## 📫 How to reach me:
-- LinkedIn: [https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2-a09748267/]
+- LinkedIn: [www.linkedin.com/in/максим-андреев-a09748267]
 
 ## Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
