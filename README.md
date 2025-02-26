@@ -1,4 +1,5 @@
 # Hi there, I'm Maksim 👋
+![Obi-Wan](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF6eTNteTd5aHBremYxYThuaXJ3N2FrdzhhaG1iYmFkN3p6ODd4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BjCWlikTDTN4a8EU0b/giphy.gif)
 
 I’m a frontend developer learning HTML and CSS. I'm passionate about building websites and improving my skills in web development. Currently, I’m focused on creating responsive and well-designed websites.
 
@@ -24,6 +25,3 @@ I’m a frontend developer learning HTML and CSS. I'm passionate about building 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
-## 💫 Obi-Wan Kenobi:
-Here’s a fun animated "Obi-Wan Kenobi" gif:
-![Obi-Wan]([https://media.giphy.com/media/2H5CJTZHITXfS/giphy.gif](https://giphy.com/gifs/disneyplus-obi-wan-kenobi-BjCWlikTDTN4a8EU0b))
