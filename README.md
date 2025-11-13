@@ -1,19 +1,19 @@
 # Hi there, I'm Maksim 👋
 ![Obi-Wan](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF6eTNteTd5aHBremYxYThuaXJ3N2FrdzhhaG1iYmFkN3p6ODd4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BjCWlikTDTN4a8EU0b/giphy.gif)
 
-I’m a frontend developer learning HTML and CSS. I'm passionate about building websites and improving my skills in web development. Currently, I’m focused on creating responsive and well-designed websites.
+I’m a frontend developer focused on React, TypeScript, and building modern web applications. I enjoy creating clean, responsive interfaces and improving code structure and performance.
 
 ## 🔭 I’m currently working on:
-- Building simple, responsive websites with HTML and CSS.
-- Learning best practices for web design and layout.
+- Projects using React, TypeScript, and modular architecture.
+- Improving code readability and UI/UX consistency.
 
 ## 🌱 I’m currently learning:
-- Advanced CSS techniques (Flexbox, Grid, animations).
-- Improving my understanding of web design principles.
+- TypeScript and advanced React patterns (hooks, context, performance optimization).
+- Clean architecture and separation of business logic from UI.
 
 ## 💬 Ask me about:
-- Web development basics: HTML, CSS.
-- My journey of learning frontend development.
+- Frontend development with React and TypeScript.
+- Structuring scalable, maintainable frontend projects.
 
 ## 📫 How to reach me:
 - LinkedIn: [www.linkedin.com/in/максим-андреев-a09748267]
